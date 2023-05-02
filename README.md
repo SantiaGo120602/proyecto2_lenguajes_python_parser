@@ -1,6 +1,6 @@
 # proyecto2_lenguajes_python_parser
 
-> En este repositorio se puede encontrar un analizador sintáctico para el lenguaje de progración Python, implementado en python-antlr4.
+> En este repositorio se puede encontrar un analizador sintáctico para el lenguaje de programación Python, implementado en python-antlr4.
 
 >**Prerrequisitos**:
 * python3
