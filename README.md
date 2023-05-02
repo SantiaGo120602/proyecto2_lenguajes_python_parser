@@ -18,11 +18,11 @@ alias grun='java org.antlr.v4.gui.TestRig'
 >Ejecución:
 Para usar el analizador sintáctico existen dos maneras:
 * Ingresar a la linea de comandos del analizador:
-```python
+```bash
 python3 main.py
 ```
 * Ingresar la ubicación de un archivo para ser analizado sintácticamente. En la carpeta ejemplos se encuentran algunos archivos en lenguaje python:
-```python
+```bash
 python3 main.py ejemplos/example.py
 ```
 
