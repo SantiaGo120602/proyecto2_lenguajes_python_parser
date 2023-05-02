@@ -29,6 +29,6 @@ python3 main.py ejemplos/example.py
 >**Errores**:
 Si se presenta algún error se puede recompilar el proyecto con las siguientes líneas de código:
 ```bash
-antlr4 -Dlanguage=Python3 python_grammar.g4
 rm -v !("main.py"|"python_grammar.g4")
+antlr4 -Dlanguage=Python3 python_grammar.g4
 ```
